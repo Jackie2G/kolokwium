@@ -1,0 +1,8 @@
+/home/jackie/Pulpit/kolokwium/zad3/build/CMakeFiles/install.dir
+/home/jackie/Pulpit/kolokwium/zad3/build/CMakeFiles/list_install_components.dir
+/home/jackie/Pulpit/kolokwium/zad3/build/CMakeFiles/rebuild_cache.dir
+/home/jackie/Pulpit/kolokwium/zad3/build/CMakeFiles/edit_cache.dir
+/home/jackie/Pulpit/kolokwium/zad3/build/CMakeFiles/testStudent.dir
+/home/jackie/Pulpit/kolokwium/zad3/build/CMakeFiles/myProgram.dir
+/home/jackie/Pulpit/kolokwium/zad3/build/CMakeFiles/install/strip.dir
+/home/jackie/Pulpit/kolokwium/zad3/build/CMakeFiles/install/local.dir

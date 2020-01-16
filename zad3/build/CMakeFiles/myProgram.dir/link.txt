@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/myProgram.dir/src/libtest.cpp.o  -o myProgram  -L/home/jackie/Pulpit/kolokwium/zad3/build -Wl,-Bstatic -ltestStudent -Wl,-Bdynamic -Wl,-rpath,/home/jackie/Pulpit/kolokwium/zad3/build: 

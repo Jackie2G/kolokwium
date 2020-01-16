@@ -1,0 +1,2 @@
+/home/jackie/Pulpit/kolokwium/zad3/lib/libtestStudent.a
+/home/jackie/Pulpit/kolokwium/zad3/bin/myProgram

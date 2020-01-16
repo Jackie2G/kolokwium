@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Student.h
+string
+-
+
+/home/jackie/Pulpit/kolokwium/zad3/src/Student.cpp
+iostream
+-
+Student.h
+/home/jackie/Pulpit/kolokwium/zad3/src/Student.h
+
